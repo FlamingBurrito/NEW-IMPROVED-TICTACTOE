@@ -2,7 +2,6 @@ import javax.swing.JFrame;
 
 public class Application extends JFrame {
 
-	//a comment
 	public Application() {
 		setSize(800, 800);
 		setTitle("game");
